@@ -1,4 +1,4 @@
-**STS-CNN**
+                                              **STS-CNN**
 ====
 ***********************************************************************************************************
 ***********************************************************************************************************
@@ -40,7 +40,7 @@ enviwrite.m - write ENVI data
 
 Folders:
 
-Temporal1 and Temporal1 - test temporal images.
+Temporal1 and Temporal2 - test temporal images.
 
 Mask - Mask File.
 
