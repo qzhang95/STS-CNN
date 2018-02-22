@@ -3,8 +3,8 @@
 ***********************************************************************************************************
 ***********************************************************************************************************
 
-Matlab demo code for **"Q.zhang, Q.Yuan et al, Missing Data Reconstruction in Remote Sensing image with
- a Unified Spatial-Temporal-Spectral Deep Convolutional Neural Network" (IEEE TGRS, 2017. Under Review)**
+Matlab demo code for **"Q.Zhang, Q.Yuan et al, Missing Data Reconstruction in Remote Sensing image with
+ a Unified Spatial-Temporal-Spectral Deep Convolutional Neural Network" (IEEE TGRS, 2018)**
 
 by Qiang Zhang (whuqzhang@gmail.com)
 
