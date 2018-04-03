@@ -5,7 +5,7 @@
 % Reference
 %   Qiang Zhang, Qiangqiang Yuan, Chao Zeng, Xinghua Li, Yancong Wei.
 %   Missing Data Reconstruction in Remote Sensing image with a Unified Spatial-Temporal-Spectral Deep Convolutional Neural Network.
-%   IEEE Transactions on Geoscience and Remote Sensing(Under Review), 2017.
+%   IEEE Transactions on Geoscience and Remote Sensing, 2018.
 %
 % Qiang Zhang
 % School of Geodesy and Geomatics, Wuhan University, P. R. China.
