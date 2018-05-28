@@ -6,14 +6,15 @@
 Matlab demo code for **"Q.Zhang, Q.Yuan et al, Missing Data Reconstruction in Remote Sensing image with
  a Unified Spatial-Temporal-Spectral Deep Convolutional Neural Network" (IEEE TGRS, 2018)**
 
-by Qiang Zhang (whuqzhang@gmail.com)
+by Qiang Zhang, Wuhan University (whuqzhang@gmail.com)
 
-If you use/adapt our code in your work (either as a stand-alone tool or as a component of any algorithm),
-please cite our paper.
+**If you use/adapt our code in your work (either as a stand-alone tool or as a component of any algorithm),
+please cite our paper.**
 
 This code is for academic purpose only. Not for commercial/industrial activities.
 
-
+***********************************************************************************************************
+***********************************************************************************************************
 **NOTE:**
 
   This Matlab version is a re-implementation with STS-CNN, and is for the ease of understanding the algorithm. 
@@ -48,5 +49,4 @@ Model - Training model
 
 results_SLC and figures_SLC - save results
 
-***********************************************************************************************************
 ***********************************************************************************************************
