@@ -11,6 +11,16 @@ by Qiang Zhang, Wuhan University (whuqzhang@gmail.com)
 **If you use/adapt our code in your work (either as a stand-alone tool or as a component of any algorithm),
 please cite our paper.**
 
+     @article{zhang2018,
+     title={Missing data reconstruction in remote sensing image with a unified spatial--temporal--spectral deep convolutional neural network},
+     author={Zhang, Qiang and Yuan, Qiangqiang and Zeng, Chao and Li, Xinghua and Wei, Yancong},
+     journal={IEEE Trans. Geosci. Remote Sens.},
+     volume={56},
+     number={8},
+     pages={4274--4288},
+     year={Aug. 2018},
+     publisher={IEEE}}
+
 This code is for academic purpose only. Not for commercial/industrial activities.
 
 ***********************************************************************************************************
